@@ -14,7 +14,7 @@ As duas skills só rodam quando chamadas, nunca por conta própria. *Both run on
 ## Instalação no Claude Code (plugin) / Installing in Claude Code (plugin)
 
 ```
-claude plugin marketplace add <endereço do repositório ou pasta local>
+claude plugin marketplace add ivonetto32/seguranca-aplicacoes
 claude plugin install seguranca-aplicacoes@seguranca-aplicacoes
 ```
 
