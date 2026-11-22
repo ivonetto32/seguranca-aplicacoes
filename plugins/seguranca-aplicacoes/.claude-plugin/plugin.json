@@ -1,0 +1,7 @@
+{
+  "name": "seguranca-aplicacoes",
+  "version": "0.1.0",
+  "description": "Segurança no desenvolvimento de aplicações pelo OWASP ASVS 5.0 nível 2 e NIST SSDF, com esteira de verificação e monitoramento em produção.",
+  "author": { "name": "Ivo Netto" },
+  "license": "CC-BY-SA-4.0"
+}

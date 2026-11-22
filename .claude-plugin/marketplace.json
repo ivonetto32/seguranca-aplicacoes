@@ -1,0 +1,14 @@
+{
+  "name": "seguranca-aplicacoes",
+  "owner": {
+    "name": "Ivo Netto"
+  },
+  "description": "Skill de segurança de aplicações (ASVS 5.0 nível 2, NIST SSDF) em português e inglês. / Application security skill (ASVS 5.0 level 2, NIST SSDF) in Portuguese and English.",
+  "plugins": [
+    {
+      "name": "seguranca-aplicacoes",
+      "source": "./plugins/seguranca-aplicacoes",
+      "description": "Segurança no desenvolvimento de aplicações pelo OWASP ASVS 5.0 nível 2 e NIST SSDF, com esteira de verificação e monitoramento em produção."
+    }
+  ]
+}
